@@ -3,8 +3,11 @@ body{
  margin:0;
 }
 h2{
-  font-family: 'Montserrat',sans-serif;
+  font-family: 'Merriweather',sans-serif;
   font-size: 30px;
+}
+h3{
+  font-family: 'Merriweather',serif;
 }
 p{
   font-family: 'Merriweather',serif;
