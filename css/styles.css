@@ -23,8 +23,10 @@ td{
 .robot{
   background-color:#354259;
   border-radius: 40%;
-  margin-left:200px;
   max-height: 300px;
+  display: block;
+margin-left: auto;
+margin-right: auto;
 }
 .robot:hover{
   border-style:dotted;
@@ -35,8 +37,9 @@ td{
 .totoro{
   background-color:#354259;
   border-radius: 40%;
-  margin-left:200px;
-  max-height: 300px;
+  display: block;
+margin-left: auto;
+margin-right: auto;
 }
 .bottom-cloud{
   position:absolute;
