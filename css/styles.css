@@ -2,18 +2,30 @@ body{
  background-color:#C2DED1;
  margin:0;
 }
+h1{
+  font-family: 'Montserrat',sans-serif;
+  font-size:50px;
+  line-height: 2;
+  margin: 0 auto 0 auto;
+}
 h2{
-  font-family: 'Merriweather',sans-serif;
-  font-size: 30px;
+  font-family: 'Merriweather',serif;
+  font-size: 2.5rem;
+  font-weight:normal;
 }
 h3{
+  color: #354259;
   font-family: 'Merriweather',serif;
 }
 p{
+    color: #354259;
   font-family: 'Merriweather',serif;
 }
 td{
   padding: 10px;
+}
+a{
+    color: #354259;
 }
 .pfp{
   border-radius: 100%;
@@ -53,19 +65,20 @@ right:200px;
 .name{
   background-color:#354259;
   color: #CDC2AE;
-  font-family: 'Merriweather',serif;
-  font-size:20px;
   margin-top:0;
   text-align: center;
   padding-top: 100px;
 }
 .middle-container{
-
+  color: #354259;
 }
 .bottom-container{
-
+  color: #354259;
 }
 .pro{
   text-decoration: underline;
   text-decoration-style: dashed;
+}
+.title{
+  text-align: center;
 }
