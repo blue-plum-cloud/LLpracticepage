@@ -35,10 +35,9 @@ a{
 .robot{
   background-color:#354259;
   border-radius: 40%;
-  max-height: 300px;
-  display: block;
-margin-left: auto;
-margin-right: auto;
+  margin-right:30px;
+  width:30%;
+  float:left;
 }
 .robot:hover{
   border-style:dotted;
@@ -49,9 +48,10 @@ margin-right: auto;
 .totoro{
   background-color:#354259;
   border-radius: 40%;
-  display: block;
-margin-left: auto;
-margin-right: auto;
+  float:right;
+  margin-left:30px;
+  width:30%;
+  height:30%;
 }
 .bottom-cloud{
   position:absolute;
@@ -81,4 +81,11 @@ right:200px;
 }
 .title{
   text-align: center;
+}
+.skill-row{
+  width:50%;
+  display: block;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
 }
